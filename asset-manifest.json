@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/Proyecto-Buscador-Heroes/static/js/main.f1ad800d.js",
+    "main.js": "/Proyecto-Buscador-Heroes/static/js/main.40cc219d.js",
     "index.html": "/Proyecto-Buscador-Heroes/index.html",
-    "main.f1ad800d.js.map": "/Proyecto-Buscador-Heroes/static/js/main.f1ad800d.js.map"
+    "main.40cc219d.js.map": "/Proyecto-Buscador-Heroes/static/js/main.40cc219d.js.map"
   },
   "entrypoints": [
-    "static/js/main.f1ad800d.js"
+    "static/js/main.40cc219d.js"
   ]
 }
